@@ -1,35 +1,41 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&random=false&width=524&lines=Welcome+to+my+profile!" alt="Typing SVG">
-  </a>
-</div>
+## Welcome to my profile!
 
-## Olá , eu sou o Matheus Ribeiro (:
-- 🎓 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPI.
-- 🎨 Possuo amplo conhecimento em ferramentas de design, como **Figma** e **Canva**.
-- 🤖 Tenho experiência em **inteligência artificial** e estou sempre explorando novas tecnologias.
-- 🚀 Nos últimos meses, tenho participado ativamente de startups emergentes em Floriano, atuando como sócio da **Therapy** e da **FeiraShop**, além de desempenhar o papel de **Product Owner (PO)**, gerenciando o desenvolvimento e a entrega de produtos alinhados às necessidades do mercado.
-- 💡 Capacitado em **Sistemas Embarcados**.
-- 📚 Estudando **HTML**, **CSS**, **C**, **Java** e **Python**.
-## My Stack
 <div>
-  <a href="https://beacons.ai/Matheus10DV">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Matheus10dv&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus10DV&layout=compact&langs_count=16&theme=dark"/>
-  </a>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-J" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-</div>
 
-## Social media 
-<div> 
- 
-  <a href="https://www.instagram.com/___matheus_ribeiro?igsh=N2x6ODhtYmw0aDRq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Best Technologies <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
+    
+  
+  <h1 align="center">Social Media</h1>
+    <a href = "mailto: work.luigi.fonseca@gmail.com">
+      <img width="30" src="gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+      <img width="25" src="linkedin.svg">
+    </a>
+    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+      <img width="35" src="youtube.svg">
+    </a>
+    <a href = "https://www.instagram.com/devparadev/">
+      <img width="25" src="instagram.png">
+    </a>
 </div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
