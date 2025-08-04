@@ -1,10 +1,10 @@
 ## Olá , eu sou o Matheus Ribeiro (:
 - 🎓 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPI.
-- 🎨 Possuo amplo conhecimento em ferramentas de design, como *Figma* e *Canva*.
-- 🤖 Tenho experiência em *inteligência artificial* e estou sempre explorando novas tecnologias.
-- 🚀 Nos últimos meses, tenho participado ativamente de startups emergentes em Floriano, atuando como sócio da *Therapy* e da *FeiraShop, além de desempenhar o papel de **Product Owner (PO)*, gerenciando o desenvolvimento e a entrega de produtos alinhados às necessidades do mercado.
-- 💡 Capacitado em *Sistemas Embarcados*.
-- 📚 Estudando *HTML, **CSS, **C, **Java* e *Python*.
+- 🎨 Possuo amplo conhecimento em ferramentas de design, como Figma e Canva.
+- 🤖 Tenho experiência em inteligência artificial e estou sempre explorando novas tecnologias.
+- 🚀 Nos últimos meses, tenho participado ativamente de startups emergentes em Floriano, atuando como sócio da Therapy e da FeiraShop, além de desempenhar o papel de Product Owner (PO), gerenciando o desenvolvimento e a entrega de produtos alinhados às necessidades do mercado.
+- 💡 Capacitado em Sistemas Embarcados.
+- 📚 Estudando HTML, CSS, C, Java e Python.
 
 
 <div>
