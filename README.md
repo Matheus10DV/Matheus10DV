@@ -1,9 +1,25 @@
-## Welcome to my profile!
+## Olá , eu sou o Matheus Ribeiro (:
+- 🎓 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPI.
+- 🎨 Possuo amplo conhecimento em ferramentas de design, como *Figma* e *Canva*.
+- 🤖 Tenho experiência em *inteligência artificial* e estou sempre explorando novas tecnologias.
+- 🚀 Nos últimos meses, tenho participado ativamente de startups emergentes em Floriano, atuando como sócio da *Therapy* e da *FeiraShop, além de desempenhar o papel de **Product Owner (PO)*, gerenciando o desenvolvimento e a entrega de produtos alinhados às necessidades do mercado.
+- 💡 Capacitado em *Sistemas Embarcados*.
+- 📚 Estudando *HTML, **CSS, **C, **Java* e *Python*.
+
 
 <div>
+  <img 
+    height="180em" 
+    style="margin-right: 20px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"
+  />
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus10DV&layout=compact&langs_count=16&theme=dark"/>
+  <img 
+    height="140em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus10DV&layout=compact&langs_count=16&theme=dark"
+  />
+</div>
+ 
 <br>
 
 
