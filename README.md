@@ -9,10 +9,6 @@
 
 <div>
   <img 
-    height="180em" 
-    style="margin-right: 20px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"
-  />
   
   <br>
 
@@ -49,4 +45,4 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
