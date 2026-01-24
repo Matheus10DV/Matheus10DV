@@ -41,7 +41,7 @@
 
 ---
 
-## / contato e portfólio /
+## / contatos /
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
