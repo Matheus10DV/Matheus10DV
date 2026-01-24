@@ -1,10 +1,8 @@
-
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Matheus+Ribeiro;Desenvolvedor+Full+Stack;Product+Owner+e+Empreendedor" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" width="100%">
 </p>
+
+
 
 <div>
 
@@ -43,7 +41,7 @@
 
 ---
 
-## / contatos /
+## / contato e portfólio /
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
@@ -71,3 +69,5 @@
     </tr>
   </table>
 </div>
+
+
