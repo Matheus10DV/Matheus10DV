@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" width="100%">
-</p>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
