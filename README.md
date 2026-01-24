@@ -21,7 +21,7 @@
 
 ## / tech stack /
 
-### linguagens e backend
+### Backend
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres" />
 </a>
