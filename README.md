@@ -1,48 +1,75 @@
-## Olá , eu sou o Matheus Ribeiro (:
-- 🎓 Estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no IFPI.
-- 🎨 Possuo amplo conhecimento em ferramentas de design, como Figma e Canva.
-- 🤖 Tenho experiência em inteligência artificial e estou sempre explorando novas tecnologias.
-- 🚀 Nos últimos meses, tenho participado ativamente de startups emergentes em Floriano, atuando como sócio da Therapy e da FeiraShop, além de desempenhar o papel de Product Owner (PO), gerenciando o desenvolvimento e a entrega de produtos alinhados às necessidades do mercado.
-- 💡 Capacitado em Sistemas Embarcados.
-- 📚 Estudando HTML, CSS, C, Java e Python.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Olá,+meu+nome+é+Matheus+Ribeiro;Desenvolvedor+Full+Stack;Product+Owner+e+Empreendedor" alt="Typing SVG" />
+  </a>
+</p>
 
 <div>
-  <img 
-  
-  <br>
 
-  <img 
-    height="140em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus10DV&layout=compact&langs_count=16&theme=dark"
-  />
+## / sobre mim /
+
+<img align="right" width="380" alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5yN3V0Zmh6NjllbzB6MTBxa2RieWR3NzJkdXZjbmo5MDh6NDd0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-top: 40px; margin-bottom: 10px;">
+
+* 🎓 Estudante de **TADS** no IFPI
+* 💻 **Desenvolvedor Full Stack Junior**
+* 🚀 Sócio das startups **Therapy** e **FeiraShop**
+* 👨‍💻 Atuando como **Product Owner (PO)**
+* 📌 Focado em inovação e soluções escaláveis
+* 🛠️ Criando soluções reais para o mercado
+
+---
+
+## / tech stack /
+
+### linguagens e backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres" />
+</a>
+
+### frontend e design
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,html,css,figma,canva" />
+</a>
+
+### ferramentas e cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=github,aws" />
+</a>
 </div>
- 
+
+<br clear="right">
+
+---
+
+## / contato e portfólio /
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://perfil-matheus.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="https://www.instagram.com/___matheus_ribeiro/?igsh=N2x6ODhtYmw0aDRq#">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</div>
+
 <br>
 
-
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Best Technologies <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Social Media</h1>
-    <a href = "mailto: work.luigi.ribeiro790j@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/matheus-ribeiro-6bb921343/" target="_blank">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/___matheus_ribeiro/?igsh=N2x6ODhtYmw0aDRq#">
-      <img width="25" src="instagram.png">
-    </a>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td bgcolor="#161b22" align="center">
+        <br>
+        <i><font color="#00ff99" size="4">“Continue faminto, continue bobo.”</font></i>
+        <br><br>
+        <p align="right"><font color="#87CEEB">- Steve Jobs</font></p>
+      </td>
+    </tr>
+  </table>
 </div>
-  
-
