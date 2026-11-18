@@ -62,12 +62,6 @@
 <br>
 
 <div align="center">
-  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Matheus10DV&show_icons=true&hide_rank=true&hide=stars,issues&card_width=360&hide_border=false&border_color=820AD1&border_radius=16&bg_color=45,070b14,1a0a2e&title_color=C084FC&icon_color=C084FC&text_color=f8fafc&locale=pt-br&custom_title=Estat%C3%ADsticas" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Happy Coder" width="500" />
 </div>
 
