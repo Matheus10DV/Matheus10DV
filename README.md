@@ -1,73 +1,99 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header" width="100%">
-</p>
-
-
-
-<div>
-
-## / sobre mim /
-
-<img align="right" width="380" alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5yN3V0Zmh6NjllbzB6MTBxa2RieWR3NzJkdXZjbmo5MDh6NDd0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" style="margin-top: 40px; margin-bottom: 10px;">
-
-* 🎓 Estudante de **TADS** no IFPI
-* 💻 **Desenvolvedor Full Stack Junior**
-* 🚀 Sócio das startups **Therapy** e **FeiraShop**
-* 👨‍💻 Atuando como **Product Owner (PO)**
-* 📌 Focado em inovação e soluções escaláveis
-* 🛠️ Criando soluções reais para o mercado
-
----
-
-## / tech stack /
-
-### Backend
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres" />
-</a>
-
-### frontend e design
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,figma,canva" />
-</a>
-
-### ferramentas e cloud
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,aws" />
-</a>
-</div>
-
-<br clear="right">
-
----
-
-## / contatos /
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://perfil-matheus.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio">
-  </a>
-  <a href="https://www.instagram.com/___matheus_ribeiro/?igsh=N2x6ODhtYmw0aDRq#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Mr. Robot" width="400" />
 </div>
 
 <br>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td bgcolor="#161b22" align="center">
-        <br>
-        <i><font color="#00ff99" size="4">“Continue faminto, continue bobo.”</font></i>
-        <br><br>
-        <p align="right"><font color="#87CEEB">- Steve Jobs</font></p>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=820AD1&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Graduado+em+TADS+pelo+IFPI.;Desenvolvedor+Full+Stack+e+Pesquisador." alt="Graduado em TADS pelo IFPI. Desenvolvedor Full Stack e Pesquisador." />
+
+<br>
+
+<a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
+  <img src="https://img.shields.io/badge/LinkedIn-14081F?style=for-the-badge&logo=linkedin&logoColor=820AD1" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://perfil-matheus.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfólio-14081F?style=for-the-badge&logo=vercel&logoColor=820AD1" alt="Portfólio" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/___matheus_ribeiro/">
+  <img src="https://img.shields.io/badge/Instagram-14081F?style=for-the-badge&logo=instagram&logoColor=820AD1" alt="Instagram" />
+</a>
+
 </div>
 
+<br>
 
+## Stack
+
+<div align="center">
+
+**Backend**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres&theme=dark" alt="Python, Django, Node.js e PostgreSQL" />
+</a>
+
+<br>
+
+**Interface e design**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma,canva&theme=dark" alt="React, JavaScript, Tailwind, HTML, CSS, Figma e Canva" />
+</a>
+
+<br>
+
+**Dados e IA**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="IA generativa" />
+</a>
+<img src="https://skills.syvixor.com/api/icons?i=powerbi&theme=dark" alt="Power BI" height="48" />
+
+<br><br>
+
+**Ferramentas e cloud**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=github,aws&theme=dark" alt="GitHub e AWS" />
+</a>
+
+<br>
+
+<a href="https://claude.ai">
+  <img src="https://img.shields.io/badge/Claude-14081F?style=for-the-badge&logo=claude&logoColor=820AD1" alt="Claude" />
+</a>
+&nbsp;
+<a href="https://cursor.com">
+  <img src="https://img.shields.io/badge/Cursor-14081F?style=for-the-badge&logo=cursor&logoColor=820AD1" alt="Cursor" />
+</a>
+
+</div>
+
+## No GitHub
+
+<div align="center">
+  <img width="100%" alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus10DV&bg_color=070b14&color=e2e8f0&line=820AD1&point=34d399&area=true&area_color=820AD1&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es&radius=16" />
+</div>
+
+<br>
+
+<div align="center">
+  <img height="150" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Matheus10DV&show_icons=true&hide_rank=true&hide=stars,issues&card_width=420&hide_border=false&border_color=820AD1&border_radius=16&bg_color=45,070b14,1a0a2e&title_color=C084FC&icon_color=820AD1&text_color=f8fafc&locale=pt-br&custom_title=Estat%C3%ADsticas" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" alt="Happy Coder" width="500" />
+</div>
+
+<br>
+
+<div align="center">
+  <i>“Continue faminto, continue bobo.”</i><br>
+  <sub>Steve Jobs</sub>
+</div>
