@@ -62,7 +62,7 @@
 <br>
 
 <div align="center">
-  <img height="150" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Matheus10DV&show_icons=true&hide_rank=true&hide=stars,issues&card_width=420&hide_border=false&border_color=820AD1&border_radius=16&bg_color=45,070b14,1a0a2e&title_color=C084FC&icon_color=820AD1&text_color=f8fafc&locale=pt-br&custom_title=Estat%C3%ADsticas" />
+  <img alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Matheus10DV&show_icons=true&hide_rank=true&hide=stars,issues&card_width=360&hide_border=false&border_color=820AD1&border_radius=16&bg_color=45,070b14,1a0a2e&title_color=C084FC&icon_color=C084FC&text_color=f8fafc&locale=pt-br&custom_title=Estat%C3%ADsticas" />
 </div>
 
 <br>
