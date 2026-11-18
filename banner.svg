@@ -2,23 +2,23 @@
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#070b14"/>
-      <stop offset="58%" stop-color="#160c22"/>
-      <stop offset="100%" stop-color="#3b0764"/>
+      <stop offset="58%" stop-color="#1A0C10"/>
+      <stop offset="100%" stop-color="#4A1520"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#820AD1"/>
+      <stop offset="0%" stop-color="#9B2335"/>
       <stop offset="100%" stop-color="#34d399"/>
     </linearGradient>
     <radialGradient id="glow" cx="82%" cy="42%" r="48%">
-      <stop offset="0%" stop-color="#820AD1" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#820AD1" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#9B2335" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#9B2335" stop-opacity="0"/>
     </radialGradient>
   </defs>
 
   <rect width="1280" height="300" fill="url(#bg)"/>
   <rect width="1280" height="300" fill="url(#glow)"/>
 
-  <g fill="none" stroke="#C084FC">
+  <g fill="none" stroke="#D4788A">
     <circle cx="1068" cy="150" r="46" stroke-opacity="0.9" stroke-width="1.5"/>
     <circle cx="1068" cy="150" r="86" stroke-opacity="0.35" stroke-width="1.25"/>
     <circle cx="1068" cy="150" r="128" stroke-opacity="0.18"/>
@@ -31,7 +31,7 @@
   <rect x="76" y="78" width="64" height="3" rx="1.5" fill="url(#accent)"/>
 
   <text x="76" y="138" fill="#f8fafc" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Matheus Ribeiro</text>
-  <text x="76" y="180" fill="#C084FC" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3.2">DESENVOLVEDOR FULL STACK</text>
+  <text x="76" y="180" fill="#D4788A" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16" letter-spacing="3.2">DESENVOLVEDOR FULL STACK</text>
   <text x="76" y="222" fill="#94a3b8" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="16">TADS   ·   IFPI   ·   Floriano, PI</text>
 
   <rect x="0" y="296" width="1280" height="4" fill="url(#accent)"/>

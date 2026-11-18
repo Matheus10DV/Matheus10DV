@@ -6,20 +6,20 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=820AD1&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Graduado+em+TADS+pelo+IFPI.;Desenvolvedor+Full+Stack+e+Pesquisador." alt="Graduado em TADS pelo IFPI. Desenvolvedor Full Stack e Pesquisador." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=900&color=9B2335&center=true&vCenter=true&multiline=true&width=680&height=80&lines=Graduado+em+TADS+pelo+IFPI.;Desenvolvedor+Full+Stack+e+Pesquisador." alt="Graduado em TADS pelo IFPI. Desenvolvedor Full Stack e Pesquisador." />
 
 <br>
 
 <a href="https://www.linkedin.com/in/matheus-ribeiro-6bb921343/">
-  <img src="https://img.shields.io/badge/LinkedIn-14081F?style=for-the-badge&logo=linkedin&logoColor=820AD1" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-1A0C10?style=for-the-badge&logo=linkedin&logoColor=9B2335" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://perfil-matheus.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfólio-14081F?style=for-the-badge&logo=vercel&logoColor=820AD1" alt="Portfólio" />
+  <img src="https://img.shields.io/badge/Portfólio-1A0C10?style=for-the-badge&logo=vercel&logoColor=9B2335" alt="Portfólio" />
 </a>
 &nbsp;
 <a href="https://www.instagram.com/___matheus_ribeiro/">
-  <img src="https://img.shields.io/badge/Instagram-14081F?style=for-the-badge&logo=instagram&logoColor=820AD1" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-1A0C10?style=for-the-badge&logo=instagram&logoColor=9B2335" alt="Instagram" />
 </a>
 
 </div>
@@ -48,15 +48,15 @@
   <strong>Ferramentas e cloud</strong><br><br>
   <img src="https://skillicons.dev/icons?i=github,aws&theme=dark" alt="GitHub e AWS" />
   <br><br>
-  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-14081F?style=for-the-badge&logo=claude&logoColor=820AD1" alt="Claude" /></a>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-1A0C10?style=for-the-badge&logo=claude&logoColor=9B2335" alt="Claude" /></a>
   &nbsp;
-  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-14081F?style=for-the-badge&logo=cursor&logoColor=820AD1" alt="Cursor" /></a>
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-1A0C10?style=for-the-badge&logo=cursor&logoColor=9B2335" alt="Cursor" /></a>
 </p>
 
 ## No GitHub
 
 <div align="center">
-  <img width="100%" alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus10DV&bg_color=070b14&color=e2e8f0&line=820AD1&point=34d399&area=true&area_color=820AD1&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es&radius=16" />
+  <img width="100%" alt="Gráfico de contribuições" src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus10DV&bg_color=070b14&color=e2e8f0&line=9B2335&point=34d399&area=true&area_color=9B2335&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es&radius=16" />
 </div>
 
 <br>
