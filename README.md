@@ -28,50 +28,30 @@
 
 ## Stack
 
-<div align="center">
-
-**Backend**
-
-<a href="https://skillicons.dev">
+<p align="center">
+  <strong>Backend</strong><br><br>
   <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres&theme=dark" alt="Python, Django, Node.js e PostgreSQL" />
-</a>
+</p>
 
-<br>
-
-**Interface e design**
-
-<a href="https://skillicons.dev">
+<p align="center">
+  <strong>Interface e design</strong><br><br>
   <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css,figma,canva&theme=dark" alt="React, JavaScript, Tailwind, HTML, CSS, Figma e Canva" />
-</a>
+</p>
 
-<br>
+<p align="center">
+  <strong>Dados e IA</strong><br><br>
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="IA generativa" height="48" />
+  <img src="https://skills.syvixor.com/api/icons?i=powerbi&theme=dark" alt="Power BI" height="48" />
+</p>
 
-**Dados e IA**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ai&theme=dark" alt="IA generativa" />
-</a>
-<img src="https://skills.syvixor.com/api/icons?i=powerbi&theme=dark" alt="Power BI" height="48" />
-
-<br><br>
-
-**Ferramentas e cloud**
-
-<a href="https://skillicons.dev">
+<p align="center">
+  <strong>Ferramentas e cloud</strong><br><br>
   <img src="https://skillicons.dev/icons?i=github,aws&theme=dark" alt="GitHub e AWS" />
-</a>
-
-<br>
-
-<a href="https://claude.ai">
-  <img src="https://img.shields.io/badge/Claude-14081F?style=for-the-badge&logo=claude&logoColor=820AD1" alt="Claude" />
-</a>
-&nbsp;
-<a href="https://cursor.com">
-  <img src="https://img.shields.io/badge/Cursor-14081F?style=for-the-badge&logo=cursor&logoColor=820AD1" alt="Cursor" />
-</a>
-
-</div>
+  <br><br>
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/Claude-14081F?style=for-the-badge&logo=claude&logoColor=820AD1" alt="Claude" /></a>
+  &nbsp;
+  <a href="https://cursor.com"><img src="https://img.shields.io/badge/Cursor-14081F?style=for-the-badge&logo=cursor&logoColor=820AD1" alt="Cursor" /></a>
+</p>
 
 ## No GitHub
 
